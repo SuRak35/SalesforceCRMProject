@@ -5,5 +5,9 @@ EduConsultPro Institute is a leading educational institution offering a variety 
 The use case focuses on the admission process for prospective students interested in enrolling in courses and programs offered by EduConsultPro Institute. The goal is to provide a seamless and transparent experience for students while enabling admissions staff to efficiently review and process admission applications, students enquiry and case management.
 
 <p align="center">
+  <img src="https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif" >
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/AyTv-0lbeO0AAAAj/check-mark-good.gif" >
 </p>
