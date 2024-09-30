@@ -1,3 +1,5 @@
+<img align="left" alt="Salesforce" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png">
+
 # SalesforceCRMProject:
 This project was made during the Smartinternz Virtual Internship Program - Cohort-1 (May, 2024 - August, 2024).
 ## A CRM Application to Manage the Services offered by an Institution:
